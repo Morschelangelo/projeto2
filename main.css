@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+form input {
+    font-size: 24px;
+    border: none;
+    background-color: lightgray;
+    border-bottom: 2px solid black;
+    padding: 8px;
+}
+
+table {
+    margin-top: 10px;
+    width: 100%;
+}
+
+table th {
+    padding: 16px;
+    font-size: 24px;
+    font-weight: bold;
+}
